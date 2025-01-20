@@ -16,4 +16,5 @@ The Fashion Store wants to create an annual sales report for 2022. So that, the 
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/PranshuKoshta/Data-Analysis_Dashboard/blob/main/Dashboard_Screenshot.png">View Dashboard</a>
+- Dashboard Interaction 
+<img width="1352" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/3a40dbfd-fbed-43a2-8b54-c827b56bb4bc" />
